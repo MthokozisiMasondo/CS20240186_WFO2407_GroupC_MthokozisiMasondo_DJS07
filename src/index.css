@@ -47,6 +47,8 @@ main {
   border-radius: 5px;
   border: 1px solid #D5D4D8;
   text-indent: 5px;
+  height: 35px;
+  width: 100%;
 }
 
 .form--button {
@@ -57,10 +59,12 @@ main {
   color: white;
   border: none;
   cursor: pointer;
+  margin-top: 10px;
 }
 
 .meme {
   position: relative;
+  text-align: center;
 }
 
 .meme--image {
